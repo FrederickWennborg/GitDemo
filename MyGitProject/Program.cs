@@ -9,12 +9,7 @@
 
         public static void MyMethod()
         {
-            Console.WriteLine("Hej!");
-        }
-
-        public static void MyMethod(int overload)
-        {
-            Console.WriteLine("Hej!");
+            Console.WriteLine("Hello, World!");
         }
 
 
