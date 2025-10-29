@@ -7,9 +7,10 @@
             Console.WriteLine("Hello, World!");
         }
 
-        public static void MyMethod()
+       
+        public static void MyMethod(int overload)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hej!");
         }
 
 
