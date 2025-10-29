@@ -12,6 +12,10 @@
             Console.WriteLine("Hej!");
         }
 
+        public static void MyMethod(int overload)
+        {
+            Console.WriteLine("Hej!");
+        }
 
 
     }
