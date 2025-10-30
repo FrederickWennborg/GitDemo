@@ -6,13 +6,5 @@
         {
             Console.WriteLine("Hello, World!");
         }
-
-       
-        public static void MyMethod(int overload)
-        {
-            Console.WriteLine("Hej!");
-        }
-
-
     }
 }
