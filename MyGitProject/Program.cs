@@ -6,5 +6,12 @@
         {
             Console.WriteLine("Hello, World!");
         }
+
+        public static void Person1Method()
+        {
+            Console.WriteLine("Person1!");
+
+        }
+
     }
 }
