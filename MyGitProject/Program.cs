@@ -6,17 +6,13 @@
         {
             Console.WriteLine("Hello, World!");
         }
-
-        public static void MyMethod()
+        public static void Person2Method()
         {
-            Console.WriteLine("Hej!");
-        }
 
-        public static void MyMethod(int overload)
-        {
-            Console.WriteLine("Hej!");
-        }
+            Console.WriteLine("Person 2 method!");
 
+
+        }
 
     }
 }
